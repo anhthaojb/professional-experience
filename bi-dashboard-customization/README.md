@@ -11,7 +11,14 @@ internal BI product built around Apache Superset.
 
 The work focused on making chart configuration more flexible
 for different dashboard and reporting requirements.
+## Interactive Prototype
 
+I developed an interactive HTML prototype to explore
+customizable BI visualization configurations, including
+metric-specific settings, thresholds, progress visualization,
+and chart customization.
+
+[Open Interactive Prototype](./bar_pie_progress.html)
 ## Areas of Work
 
 ### Chart Configuration
