@@ -15,7 +15,21 @@ The work involved researching how alert thresholds could be defined for differen
 My responsibilities included feature research, alert mechanism analysis, testing, documentation, and collaboration with Developers.
 
 ---
+## Interactive Demo
 
+The project includes an interactive HTML prototype for exploring and configuring BI chart visualization and alerting features.
+
+The prototype demonstrates:
+
+- Chart configuration
+- Alert threshold configuration
+- Metric-based settings
+- Visualization customization
+- Alert-related interactions
+
+> **Note:** The demo is a portfolio version and does not contain proprietary company data or source code.
+
+[View HTML Demo →](./demo/versatica-dashboard.html)
 ## Key Responsibilities
 
 ### Alert Threshold Research
