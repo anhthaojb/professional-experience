@@ -29,7 +29,7 @@ The prototype demonstrates:
 
 > **Note:** The demo is a portfolio version and does not contain proprietary company data or source code.
 
-[View HTML Demo →](./demo/versatica-dashboard.html)
+[View HTML Demo →](./bar_pie_progress.html)
 ## Key Responsibilities
 
 ### Alert Threshold Research
