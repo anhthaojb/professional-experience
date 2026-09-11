@@ -1,76 +1,76 @@
 # Professional Experience
 
-Selected projects and case studies from my experience as a Data Analyst / BI Intern at MH Solution.
+A collection of selected professional work and case studies
+from my internship experience in Data Analytics, Business Intelligence,
+and Data Engineering.
 
-> Note: Due to confidentiality, proprietary source code, datasets, and internal business information are not included.
+## Experience
 
----
+### Data Analyst / Data Engineer / BI Intern
+**MH Solution — Hanoi, Vietnam**
+*Jul 2026 – Present*
 
-## MH Solution
+My work focuses on BI dashboard development, healthcare data analysis,
+data visualization, BI product customization, and data platform testing.
 
-**Data Analyst / BI Intern**  
-Hanoi, Vietnam | Jul 2026 – Present
-
-My work focuses on Business Intelligence, dashboard development, BI platform research, visualization, feature testing, and business requirement analysis.
-
-### Areas of Experience
-
-- BI Dashboard Development
-- Data Visualization
-- KPI & Dashboard Design
-- BI Platform Research
-- Alerting & Notification Mechanisms
-- Feature Testing & Bug Reporting
-- Business Requirement Analysis
-- Product Demonstration
-
----
-
-## Selected Projects
+## Selected Work
 
 ### 01. Healthcare BI Dashboard
 
-Built and customized BI dashboards for a public healthcare organization based on business requirements.
+Designed and developed management dashboards using simulated healthcare
+data modeled around provincial Department of Health workflows.
 
-**My Contribution**
-- Built and customized BI dashboards and visualizations.
-- Structured KPI and chart layouts based on business requirements.
-- Reviewed dashboard logic and identified issues in visualization and business workflows.
-- Prepared dashboard demonstrations and supporting documentation.
+Key areas include:
 
-**Tools**
+- Healthcare operations
+- Outpatient and inpatient activities
+- Public health
+- Administrative procedures
+- Healthcare workforce
+- Facilities and medical equipment
+- Finance and budget
+- Vulnerable population groups
 
-`Apache Superset` `ClickHouse` `SQL` `BI Dashboard`
+The dashboards combine KPI cards, trend analysis, rankings,
+maps, tables, and interactive visualizations to support
+overview-to-detail operational monitoring.
 
----
-
-### 02. Versatica BI Dashboard & Alerting
-
-Research and testing of BI visualization and alerting capabilities for product development.
-
-**My Contribution**
-- Researched chart-level alert thresholds and alert mechanisms.
-- Studied alerting approaches across BI platforms.
-- Tested features including Security, Alerts & Reports, and Annotations.
-- Documented bugs and improvement suggestions.
-- Collaborated with Developers to clarify requirements and review fixes.
-
-**Tools**
-
-`Apache Superset` `BI Visualization` `Alerting` `Jira`
+[View case study →](./healthcare-bi-dashboard/)
 
 ---
 
-### 03. BI Platform Research & Evaluation
+### 02. BI Dashboard & Visualization Customization
 
-Research and evaluation of BI and data visualization platforms to support product development and client requirements.
+Worked with the development team to customize visualization and
+chart capabilities for the company's BI product.
 
-**My Contribution**
-- Compared chart and visualization capabilities across BI platforms.
-- Evaluated dashboard features and customization approaches.
-- Researched visualization patterns and chart types.
-- Consolidated findings into structured documentation and recommendations.
+Focus areas include:
 
-**Focus Areas**
+- Chart configuration
+- KPI and threshold visualization
+- Dashboard interaction
+- Visualization requirements
+- Frontend/backend collaboration
+- BI product testing
 
-`Data Visualization` `Dashboard` `BI Platform` `Chart Evaluation`
+[View case study →](./bi-dashboard-customization/)
+
+---
+
+### 03. BI Platform Research
+
+Researched and compared BI platforms and visualization capabilities
+to support internal product development and provide references
+for future BI requirements.
+
+[View case study →](./bi-platform-research/)
+
+## Tools
+
+SQL · Python · Apache Superset · Power BI · PostgreSQL · MySQL · Git
+
+## Note
+
+All examples in this repository are presented for portfolio purposes.
+Company-specific source code, proprietary data, internal documents,
+and confidential information are intentionally excluded.
