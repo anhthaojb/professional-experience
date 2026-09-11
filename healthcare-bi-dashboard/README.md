@@ -1,7 +1,5 @@
 # Healthcare BI Dashboard
 
-> Selected BI dashboard work from my internship experience.
-
 ## Overview
 
 Designed and developed interactive BI dashboards using simulated
@@ -14,7 +12,7 @@ operational information.
 ## Dashboard Structure
 
 ### 01 — Healthcare Overview
-
+![Healthcare Overview](./1.png)
 The overview dashboard provides a high-level view of healthcare
 operations, including:
 
@@ -35,7 +33,7 @@ trend analysis, rankings, and detailed tables.
 ---
 
 ### 02 — Healthcare Finance & Budget
-
+![Healthcare Finance & Budget](./2.png)
 The finance dashboard focuses on:
 
 - State budget allocation
@@ -50,7 +48,7 @@ The finance dashboard focuses on:
 ---
 
 ### 03 — Vulnerable Population & Social Support
-
+![Vulnerable Population](./3.png)
 The dashboard focuses on:
 
 - Supported health insurance coverage
