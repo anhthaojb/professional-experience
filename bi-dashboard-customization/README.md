@@ -18,7 +18,7 @@ customizable BI visualization configurations, including
 metric-specific settings, thresholds, progress visualization,
 and chart customization.
 
-[Open Interactive Prototype](./bar_pie_progress.html)
+[▶ Open Interactive HTML Demo](https://anhthaojb.github.io/professional-experience/bi-dashboard-customization/bar_pie_progress.html)
 ## Areas of Work
 
 ### Chart Configuration
