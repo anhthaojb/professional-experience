@@ -1,7 +1,4 @@
 # BI Dashboard & Visualization Customization
-
-> Selected work related to visualization customization
-> for an internal BI product.
 ## Interactive Prototype
 
 I developed an interactive HTML prototype to explore
@@ -12,72 +9,109 @@ and chart customization.
 **[▶ Open Interactive Demo](https://anhthaojb.github.io/professional-experience/bi-dashboard-customization/bar_pie_progress.html)**
 ## Overview
 
-Worked with frontend and backend developers to explore,
-test, and customize visualization capabilities for an
-internal BI product built around Apache Superset.
+Worked with frontend and backend developers to customize and test
+visualization capabilities for an internal BI product based on
+Apache Superset. Developed an interactive prototype for three chart
+types, introducing configurable visualization rules and
+threshold-based alerts to help users identify metrics requiring attention.
 
-The work focused on making chart configuration more flexible
-for different dashboard and reporting requirements.
+## What I Worked On
 
-## Areas of Work
+### 1. Custom Visualization
 
-### Chart Configuration
+Customized **three core chart types**:
 
-Explored configurable visualization properties such as:
+* **Bar Chart** — configurable metric visualization with threshold-based styling and comparison options.
+* **Progress Chart** — visualizes metric progress against defined targets or thresholds.
+* **Pie Chart** — supports configurable slice-level visualization and threshold-based rules.
 
-- Chart titles
-- Title configuration
-- Colors
-- Thresholds
-- Metric-specific settings
-- Progress visualization
-- Annotation and comparison elements
+The customization focused on making visualization behavior configurable while keeping the interaction simple for end users.
 
-### Metric-Specific Visualization
+---
 
-Investigated how visualization rules can behave differently
-depending on the selected metric.
+### 2. Threshold & Alert Logic
 
-For example, a chart configuration may need to support:
+Designed a configurable **threshold-based alert mechanism** to help users identify metrics that require attention.
 
-- A common configuration for all metrics
-- Individual configuration for selected metrics
-- Different colors or thresholds for different metrics
+Users can define rules for individual metrics, allowing the visualization to automatically reflect different states based on the configured thresholds.
 
-### Dashboard Interaction
+For example:
 
-Reviewed chart behavior across different dashboard
-configuration scenarios and identified inconsistencies
-that could affect usability.
+```text
+Metric
+   ↓
+Compare with threshold
+   ↓
+┌───────────────┐
+│ Normal        │ → Standard visualization
+│ Warning       │ → Attention indicator
+│ Critical      │ → Alert indicator
+└───────────────┘
+```
 
-## Development Collaboration
+This allows the dashboard to communicate not only **“what is the value?”**, but also **“does this value require attention?”**
 
-Worked with frontend and backend developers to:
+---
 
-- Clarify visualization requirements
-- Test implemented behavior
-- Identify UI/UX inconsistencies
-- Communicate expected chart behavior
-- Validate changes against reporting use cases
+### 3. Metric-Specific Configuration
 
-## Technology
+One of the key requirements was supporting different visualization rules for different metrics.
 
-- Apache Superset
-- SQL
-- BI Visualization
-- Frontend / Backend Collaboration
-- Git
+The prototype therefore explores configurations such as:
+
+* Common rules for all metrics
+* Individual rules for selected metrics
+* Metric-specific threshold values
+* Metric-specific visualization states
+* Different visual responses based on the selected metric
+
+This makes the same chart component reusable across different KPIs without requiring users to manually configure each visualization from scratch.
+
+---
+
+## Key Features
+
+* Custom configuration for **3 chart types**
+* Metric-level threshold configuration
+* Alert / warning logic
+* Progress visualization
+* Conditional visual states
+* Flexible metric-specific rules
+* Interactive configuration panel
+* Reusable visualization settings
+
+---
 
 ## My Contribution
 
-- Researched existing chart capabilities
-- Explored visualization configuration requirements
-- Tested chart behavior
-- Identified configuration and interaction issues
-- Documented findings
-- Collaborated with developers during implementation and testing
+* Translated visualization requirements into configurable chart behavior.
+* Designed the configuration logic for the three supported chart types.
+* Developed threshold-based alert logic for KPI monitoring.
+* Tested different metric and threshold combinations.
+* Identified and refined inconsistent visualization behavior.
+* Worked with frontend/backend developers to align the prototype with BI product requirements.
 
-## Confidentiality
+---
 
-This case study does not include proprietary source code,
-internal product documentation, or confidential company data.
+## Technology
+
+**Apache Superset · SQL · HTML · CSS · JavaScript · BI Visualization**
+
+---
+
+## Why It Matters
+
+> The customization focuses on turning static BI charts into more actionable visualizations, where users can configure metrics, define thresholds, and quickly identify indicators that require attention.
+
+---
+
+
+
+
+
+
+
+
+
+
+
