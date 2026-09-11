@@ -2,7 +2,14 @@
 
 > Selected work related to visualization customization
 > for an internal BI product.
+## Interactive Prototype
 
+I developed an interactive HTML prototype to explore
+customizable BI visualization configurations, including
+metric-specific settings, thresholds, progress visualization,
+and chart customization.
+
+**[▶ Open Interactive Demo](https://anhthaojb.github.io/professional-experience/bi-dashboard-customization/bar_pie_progress.html)**
 ## Overview
 
 Worked with frontend and backend developers to explore,
@@ -11,14 +18,7 @@ internal BI product built around Apache Superset.
 
 The work focused on making chart configuration more flexible
 for different dashboard and reporting requirements.
-## Interactive Prototype
 
-I developed an interactive HTML prototype to explore
-customizable BI visualization configurations, including
-metric-specific settings, thresholds, progress visualization,
-and chart customization.
-
-[▶ Open Interactive HTML Demo](https://anhthaojb.github.io/professional-experience/bi-dashboard-customization/bar_pie_progress.html)
 ## Areas of Work
 
 ### Chart Configuration
