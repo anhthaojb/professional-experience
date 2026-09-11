@@ -119,8 +119,3 @@ The research was organized into:
 - Official websites
 - Demo / gallery references
 - Documentation references
-
-## Confidentiality
-
-The research contains only publicly available information
-and does not include confidential company information.
