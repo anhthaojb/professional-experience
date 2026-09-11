@@ -69,8 +69,4 @@ for future BI requirements.
 
 SQL · Python · Apache Superset · Power BI · PostgreSQL · MySQL · Git
 
-## Note
 
-All examples in this repository are presented for portfolio purposes.
-Company-specific source code, proprietary data, internal documents,
-and confidential information are intentionally excluded.
