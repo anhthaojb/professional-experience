@@ -21,9 +21,9 @@ threshold-based alerts to help users identify metrics requiring attention.
 
 Customized **three core chart types**:
 
-* **Bar Chart** — configurable metric visualization with threshold-based styling and comparison options.
-* **Progress Chart** — visualizes metric progress against defined targets or thresholds.
-* **Pie Chart** — supports configurable slice-level visualization and threshold-based rules.
+* **Bar Chart** - configurable metric visualization with threshold-based styling and comparison options.
+* **Progress Chart** - visualizes metric progress against defined targets or thresholds.
+* **Pie Chart** - supports configurable slice-level visualization and threshold-based rules.
 
 The customization focused on making visualization behavior configurable while keeping the interaction simple for end users.
 
@@ -99,11 +99,6 @@ This makes the same chart component reusable across different KPIs without requi
 
 ---
 
-## Why It Matters
-
-> The customization focuses on turning static BI charts into more actionable visualizations, where users can configure metrics, define thresholds, and quickly identify indicators that require attention.
-
----
 
 
 
